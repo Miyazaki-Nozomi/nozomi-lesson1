@@ -33,4 +33,5 @@ public class BallController : MonoBehaviour
     {
         m_rb2d.AddForce(m_powerDirection.normalized * m_powerScale, ForceMode2D.Impulse);
     }
+    
 }

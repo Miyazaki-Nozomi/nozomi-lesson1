@@ -21,7 +21,6 @@ public class PaddleController : MonoBehaviour
 
     void Update()
     {
-        m_rb2d.
         Move();
     }
     void Move()
