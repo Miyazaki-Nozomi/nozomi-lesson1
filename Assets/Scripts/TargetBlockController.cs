@@ -8,15 +8,11 @@ using UnityEngine;
 /// </summary>
 public class TargetBlockController : MonoBehaviour
 {
-    void Start()
-    {
 
-    }
-
-    void Update()
-    {
-
-    }
+    
+    
+     
+    
 
     /// <summary>
     /// Collider に衝突判定があった時に呼ばれる
